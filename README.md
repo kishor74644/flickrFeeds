@@ -1,1 +1,2 @@
-1.Use a server with windows environment.
+#Use a server with windows environment.
+#use latest version of chrome or mozilla.
